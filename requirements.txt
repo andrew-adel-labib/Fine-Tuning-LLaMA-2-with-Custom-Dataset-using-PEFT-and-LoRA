@@ -1,0 +1,6 @@
+ipykernel
+accelerate
+peft 
+bitsandbytes 
+transformers 
+trl==0.4.7
